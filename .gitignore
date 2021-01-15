@@ -1,7 +1,7 @@
 # This .gitignore file should be placed at the root of Monster_Buster project directory
 #
 
-*.meta
 .DS_Store
 .DS_Store?
 ._*
+*.meta
