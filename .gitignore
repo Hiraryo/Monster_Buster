@@ -1,0 +1,5 @@
+# This .gitignore file should be placed at the root of Monster_Buster project directory
+#
+# Get latest from http://github.com/github/gitignore/blob/master/Unity.gitignore
+#
+*.meta
