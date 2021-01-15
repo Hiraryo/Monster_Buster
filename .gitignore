@@ -3,3 +3,4 @@
 # Get latest from http://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 *.meta
+*.DS_Store
