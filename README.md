@@ -1,4 +1,4 @@
-<h3 align="center">Monster_Buster</h3>
+<h1 align="center">Monster_Buster(モンバス)に込めた想いとは</h1>
 <h2 align="center">ごあいさつ</h2>
 このたびはスマートフォン専用アプリ『Monster_Buster(モンバス)』をお求めいただきまして、誠にありがとうございます。
 このREADMEでは、「Monster_Buster(モンバス)」の誕生秘話とこだわり部分を紹介しています。
