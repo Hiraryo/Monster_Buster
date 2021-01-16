@@ -1,2 +1,1 @@
-# Monster_Buster
-This is the repository of the smartphone app "Monster Buster".
+<h3 align="center">Monster_Buster</h3>
