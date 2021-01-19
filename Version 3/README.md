@@ -17,4 +17,4 @@ Android :robot:→https://play.google.com/store/apps/details?id=com.teamKC.Monst
 
 1月19日(火)
 
- **1月18日(月)AM 4:30頃にゲーム進行不能の不具合の修正が完了しましたので、通常通りサービスを再開しました。<br>また同日のPM 9:00頃にGoogle Playでの配信を再開しました。 **
+ **1月18日(月)AM 4:30頃にゲーム進行不能の不具合の修正が完了しましたので、通常通りサービスを再開しました。<br>また同日のPM 9:00頃にGoogle Playでの配信を再開しました。**
