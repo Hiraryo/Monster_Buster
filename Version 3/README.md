@@ -1,7 +1,7 @@
 # Monster_Buster
 This is the first repository of the smartphone application "Monster_Buster".
 
-このリポジトリは 現在App StoreとGoogle play Storeで配信中の スマートフォンアプリ「Monster_Buster」(Ver3.0.3)のものです。<br>
+このリポジトリは 現在App StoreとGoogle play Storeで配信中の スマートフォンアプリ「Monster_Buster」(Version3系)のものです。<br>
 
 iOS :apple:→https://apps.apple.com/jp/app/monster-buster/id1485947977?ign-mpt=uo%3D2
 
