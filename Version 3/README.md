@@ -27,14 +27,15 @@ Monster_Buster(3.3.3)では、
 そしてフィードバックが欲しいので、2021年3月末まで[TestFlight](https://developer.apple.com/jp/testflight/)を使うことにしました。
 開発チーム外の方々にAppを共有する方法として、 **パブリックリンク**を使用します。 
 
-~**ただいま審査待ちの為、パブリックリンクの準備が出来ていません。もうしばらくお待ちください。(1月31日)**~<br>
+~ただいま審査待ちの為、パブリックリンクの準備が出来ていません。もうしばらくお待ちください。(1月31日)~<br>
  **Version3.3.3が承認された為、パブリックリンクの準備が完了しました。(2月1日)** 
  
-https://testflight.apple.com/join/pSWFoNkb がMonster_Busterのパブリックリンクです。
-テストへの参加方法については、こちら(https://github.com/Hiraryo/Monster_Buster/tree/master/Version%203/3.3.3#%E3%83%86%E3%82%B9%E3%83%88%E3%81%B8%E3%81%AE%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95) をご覧ください。<br>
+https://testflight.apple.com/join/pSWFoNkb がMonster_Busterのパブリックリンクです。<br><br>
+テストへの参加方法については、こちら(https://github.com/Hiraryo/Monster_Buster/tree/master/Version%203/3.3.3#%E3%83%86%E3%82%B9%E3%83%88%E3%81%B8%E3%81%AE%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95) をご覧ください。<br><br>
 ご協力いただけましたら幸いです。
 
-Version3.3.3についてのお知らせは、3.3.3版のREADME(https://github.com/Hiraryo/Monster_Buster/blob/master/Version%203/3.3.3/README.md) で行います。
+そして今後のVersion3.3.3についてのお知らせは、3.3.3版のREADME(https://github.com/Hiraryo/Monster_Buster/blob/master/Version%203/3.3.3/README.md) で行います。<br>
+皆様よろしくお願いいたします。
 
 
 # Monster_Busterの更新情報 
