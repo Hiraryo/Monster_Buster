@@ -28,11 +28,11 @@
 
 ## 開発ツール
 <p align="center">
-  <a href="https://unity.com/ja"><img src="https://user-images.githubusercontent.com/60394438/101274070-57309080-37de-11eb-9a54-020f94bee1e3.png" width="40%;" /></a>
+  <a href="https://unity.com/ja"><img src="https://user-images.githubusercontent.com/60394438/101274070-57309080-37de-11eb-9a54-020f94bee1e3.png" width="30%;" /></a>
 </p>
 <p align="center">
-  <a href="https://admob.google.com/intl/ja/home/"><img src="https://user-images.githubusercontent.com/60394438/106782618-b64f3c00-668d-11eb-9839-e06633482714.png" width="40%;" /></a>
+  <a href="https://admob.google.com/intl/ja/home/"><img src="https://user-images.githubusercontent.com/60394438/106782618-b64f3c00-668d-11eb-9839-e06633482714.png" width="50%;" /></a>
 </p>
 <p align="center">
-  <a href="https://mbaas.nifcloud.com"><img src="https://user-images.githubusercontent.com/60394438/106782620-b818ff80-668d-11eb-8111-c51210451928.png" width="40%;" /></a>
+  <a href="https://mbaas.nifcloud.com"><img src="https://user-images.githubusercontent.com/60394438/106782620-b818ff80-668d-11eb-8111-c51210451928.png" width="30%;" /></a>
 </p>
