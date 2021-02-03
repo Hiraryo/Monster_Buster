@@ -20,8 +20,9 @@ Android :robot:→https://play.google.com/store/apps/details?id=com.teamKC.Monst
 
 ### :white_check_mark: 1月31日(日)〜2月3日(水)
 Monster_Buster(3.3.3)の更新情報
- - UIを変更、及び調整を行いました
+ - UIの変更、及び調整を行いました
  - BGMをステレオ音源にしました
+ - ホーム画面の背景を変更しました
  - 内部処理を改善しました
 
 そしてフィードバックが欲しいので、2021年3月末まで[TestFlight](https://developer.apple.com/jp/testflight/)を使うことにしました。
