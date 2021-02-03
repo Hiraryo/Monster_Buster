@@ -18,11 +18,11 @@ Android :robot:→https://play.google.com/store/apps/details?id=com.teamKC.Monst
 
  **1月18日(月)AM 4:30頃にゲーム進行不能の不具合の修正が完了しましたので、通常通りサービスを再開しました。<br>また同日のPM 9:00頃にGoogle Playでの配信を再開しました。**
 
-### :white_check_mark: 1月31日(日)
-Monster_Buster(3.3.3)では、
- - UIの変更・調整
- 
-を行いました。
+### :white_check_mark: 1月31日(日)〜2月3日(水)
+Monster_Buster(3.3.3)の更新情報
+ - UIを変更、及び調整を行いました
+ - BGMをステレオ音源にしました
+ - 内部処理を改善しました
 
 そしてフィードバックが欲しいので、2021年3月末まで[TestFlight](https://developer.apple.com/jp/testflight/)を使うことにしました。
 開発チーム外の方々にAppを共有する方法として、 **パブリックリンク**を使用します。 
