@@ -1,9 +1,7 @@
-Monster_Buster(3.3.3)では、
+Monster_Buster(3.3.3)の更新情報
  - UIを変更、及び調整を行いました
  - BGMをステレオ音源にしました
  - 内部処理を改善しました
- 
-を行いました。
 
 そしてフィードバックが欲しいので、2021年3月末まで[TestFlight](https://developer.apple.com/jp/testflight/)を使うことにしました。
 開発チーム外の方々にAppを共有する方法として、 **パブリックリンク**を使用します。 
