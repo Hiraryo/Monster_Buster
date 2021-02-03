@@ -26,7 +26,7 @@
 となり、低学年のお子さんの定義がアバウトだと考えた為、メンバーで独自の「低学年のお子さん」を定義しました。
 
 
-## 開発ツール
+## 使用ツール
 <p align="center">
   <a href="https://unity.com/ja"><img src="https://user-images.githubusercontent.com/60394438/101274070-57309080-37de-11eb-9a54-020f94bee1e3.png" width="30%;" /></a>
 </p>
